@@ -1,0 +1,11 @@
+//instalar varios paquetes del respositorio de npm en una sola linea
+npm install --save yargs colors
+
+tipos de for
+Javascript ES6 - Diferencias entre loops (for, forEach, for in y for of)
+
+//findIndex encuentra una coincidencia y devuelve un numero
+listadoPorHacer.findIndex
+
+//listadoPorHacer.filter
+devuelve nuevo arreglo
